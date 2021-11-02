@@ -2,16 +2,26 @@ title: Göçmenin Notları
 author:
   name: Hasan Berkay Çağır
   email: berkay@cagir.com.tr
-description: > # this means to ignore newlines until "show_excerpts:"
-  Aklıma takılanları yazdığım blogum. Teknik konulardan kitap incelemelerine
-  kadar pek çok şey.
-show_excerpts: true # set to true to show excerpts on the homepage
+  twitter: berkaycagir
+  url: https://cagir.me
+description: Aklıma takılanları yazdığım blogum.
+show_excerpts: false
+url: https://blog.cagir.me
+twitter:
+  username: berkaycagir
+  card: summary
+social:
+  links:
+    - https://twitter.com/berkaycagir
+    - https://github.com/berkaycagir
+    - https://www.linkedin.com/in/berkaycagir
+locale: tr_TR
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
   date_format: "%d/%-m/%Y"
-  skin: solarized
+  skin: dark
   # generate social links in footer
   social_links:
     twitter: berkaycagir
@@ -56,3 +66,5 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - jekyll-sitemap
+ - jekyll-gist

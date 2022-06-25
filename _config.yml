@@ -43,26 +43,26 @@ minima:
     # telegram: jekyll
     # googleplus: +jekyll
     # microdotblog: jekyll
-    # keybase: jekyll
+    keybase: berkay
 
-    # Mastodon instances
-    # mastodon:
-    # - username: jekyll
-    #   instance: example.com
+    Mastodon instances
+    mastodon:
+    - username: berkay
+      instance: mastodon.com.tr
     # - username: jekyll2
     #   instance: example.com
 
     # GitLab instances
-    # gitlab:
-    # - username: jekyll
-    #   instance: example.com
+    gitlab:
+    - username: berkay
+      instance: github.com
     # - username: jekyll2
     #   instance: example.com
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+header_pages:
+ - hakkimda.md
 
 # Build settings
 theme: minima

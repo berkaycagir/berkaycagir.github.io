@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unpopular opinion: CSD is disruptive
+title: "Unpopular opinion: CSD is disruptive"
 lang: en
 ref: post2
 ---

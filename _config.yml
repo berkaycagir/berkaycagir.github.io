@@ -45,7 +45,7 @@ minima:
     # microdotblog: jekyll
     keybase: berkay
 
-    Mastodon instances
+    # Mastodon instances
     mastodon:
     - username: berkay
       instance: mastodon.com.tr

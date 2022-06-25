@@ -5,6 +5,14 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title">{{ page.title | escape }}</h1>
+    {% assign versions=site.pages | where:"ref", page.ref | sort: 'lang' %}
+    {% if versions.size > 1 %}
+      {% for version in versions %}
+        {% if version.lang != page.lang %}
+          <a href="{{ version.url }}" class="{{ version.lang }}">{{ site.data.i18n[version.lang].read_it_in }} {{ site.data.i18n[version.lang].icon }}</a>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
   </header>
 
   <div class="post-content">

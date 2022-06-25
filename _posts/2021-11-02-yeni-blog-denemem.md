@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Yeni blog denemem
+lang: tr
+ref: post1
 ---
 Selam!
 

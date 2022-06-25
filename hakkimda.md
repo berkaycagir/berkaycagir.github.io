@@ -2,6 +2,8 @@
 layout: page
 title: Hakkımda
 permalink: /hakkimda/
+ref: about
+lang: tr
 ---
 Merhaba!
 

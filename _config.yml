@@ -55,7 +55,7 @@ minima:
     # GitLab instances
     gitlab:
     - username: berkay
-      instance: github.com
+      instance: gitlab.com
     # - username: jekyll2
     #   instance: example.com
 

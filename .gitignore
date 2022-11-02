@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/jekyll,macos,ruby
-# Edit at https://www.toptal.com/developers/gitignore?templates=jekyll,macos,ruby
+# Created by https://www.toptal.com/developers/gitignore/api/jekyll,macos,ruby,visualstudiocode
+# Edit at https://www.toptal.com/developers/gitignore?templates=jekyll,macos,ruby,visualstudiocode
 
 ### Jekyll ###
 _site/
@@ -100,4 +100,23 @@ build-iPhoneSimulator/
 # Used by RuboCop. Remote config files pulled in from inherit_from directive.
 # .rubocop-https?--*
 
-# End of https://www.toptal.com/developers/gitignore/api/jekyll,macos,ruby
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
+
+# End of https://www.toptal.com/developers/gitignore/api/jekyll,macos,ruby,visualstudiocode

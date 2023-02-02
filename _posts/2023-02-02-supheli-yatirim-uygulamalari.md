@@ -86,7 +86,7 @@ Bu yazıyı yazmak için bilgisayar başına oturduğumda yukarıda gördüğün
 
 Android uygulamalarında her uygulamanın bir paket ismi olur, ve bu isimler Java zamanından kalan alışkanlıkla (burada yanlışım olabilir, Android geliştiricisi arkadaşlar beni düzeltirse buraya eklerim) şu düzendedir:
 
-    [uygulama yapımcısının alan adının ters çevirilmiş hali (google.com için com.google)].[uygulamanın tekil tanımlayıcısı, genellikle adı veya kısaltması]
+`[uygulama yapımcısının alan adının ters çevirilmiş hali (google.com için com.google)].[uygulamanın tekil tanımlayıcısı, genellikle adı veya kısaltması]`
 
 Üstteki ekran görüntülerinin son kısımlarını çözümlediğimizde ise [`maxsoftlab.com`](https://maxsoftlab.com)'un `vakiftrader` ve `finansyatirim` uygulamaları olduğu anlaşılıyor. Tahminimce _Vakıf Capital_'ın VakıfBank ile daha alakalı görünmesini sağlamak için en başta ayrı bir şirket kurmayı tercih ettiler; ama sonrasında kullanıcıların dikkatsizliğinin farkına varıp tek bir şirket üzerinden aynı uygulamanın zibilyon tane klonu ile daha fazla kullanıcıyı daha ucuza kendilerine çekebileceklerini anladılar. Tabii ki bunlar tamamen benim tahminim 🙂
 

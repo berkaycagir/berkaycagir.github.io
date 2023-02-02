@@ -16,11 +16,11 @@ Bu aralar (Türkiye'nin hatrı sayılır bir bölümü gibi 🙃) pay piyasalar�
 
 ---
 
-##### [_Vakıf Capital: Borsa Yatırım_](https://play.google.com/store/apps/details?id=com.maxsoftlab.vakiftrader)
+##### 14. [_Vakıf Capital: Borsa Yatırım_](https://play.google.com/store/apps/details?id=com.maxsoftlab.vakiftrader)
 
 _Vakıf Capital_'ın dikkatimi çekmesi isminin VakıfBank'ı andırmasıyla oldu. Uygulamanın Play Store sayfası ekran görüntüsü sayısı çok az olsa da güzel tasarlanmış bir arayüz ve cafcaflı bir uygulama açıklaması içeriyor. Ama beni asıl şüphelendiren şu iki kısım oldu:
 
-###### Yayıncı ismi
+###### 1. __Yayıncı ismi__
 
 ![Play Store uygulama başlığı ekran görüntüsü](/assets/images/post4_2.png)
 
@@ -28,7 +28,7 @@ Yayıncının ismi ekran görüntüsünde gördüğünüz üzere _VKF CAPITAL LT
 
 ![Companies House web servisinin ekran görüntüsü](/assets/images/post4_3.png)
 
-Şirketin _confirmation statement_ını vermemiş olmasını bir önyargı olarak almadan şirket yöneticilerinin listelendiği sekmeye geçince şüphemin %99 doğru olduğunu hissetmeye başladım:
+Şirketin _confirmation statement_'ını vermemiş olmasını bir önyargı olarak almadan şirket yöneticilerinin listelendiği sekmeye geçince şüphemin %99 doğru olduğunu hissetmeye başladım:
 
 ![Companies House web servisinin ekran görüntüsü](/assets/images/post4_4.png)
 
@@ -40,7 +40,7 @@ Birleşik Krallık'da ikamet ediyor olun olmayın, bir anonim şirket kurmanız�
 
 Konumuza geri dönersek; Milena Hanım gerçek de olabilir, çok sık kullanılan bir isim adına yapılmış ortalama kalitede sahte bir kimlik/fatura kombinasyonu ile oluşturulmuş hayalî bir kişi de olabilir. Benim kişisel fikrim hayalî bir kişi olduğu yönünde ama tabii ki bu konuda bir kanıtım yok. Kendisinin adını ve soyadını Google'da arattığınızda binlerce farklı farklı kişiyle karşılaşıyorsunuz.
 
-###### Uygulama yorumları
+###### 2. __Uygulama yorumları__
 
 ![Play Store uygulama yorumları ekran görüntüsü](/assets/images/post4_5.png)
 
@@ -50,7 +50,7 @@ Bütün bunlar haricinde _şikayetvar_ üzerinde de bir yığın şikayet göreb
 
 ---
 
-##### [_Finans Yatırım: Hisse Yatırımı_](https://play.google.com/store/apps/details?id=com.maxsoftlab.finansyatirim)
+##### 18. [_Finans Yatırım: Hisse Yatırımı_](https://play.google.com/store/apps/details?id=com.maxsoftlab.finansyatirim)
 
 _Finans Yatırım_'ın dikkatimi çekmesi ise isminin jenerikliğinden dolayı oldu. Uygulamanın Play Store sayfası normal uygulamalara biraz daha yakın sayıda ekran görüntüsü ve yine güzel tasarlanmış bir arayüz ile cafcaflı bir uygulama açıklaması içeriyor. Bu uygulamada yayıncı ismi biraz daha her zaman gördüğümüz standart isimlere yakın:
 
